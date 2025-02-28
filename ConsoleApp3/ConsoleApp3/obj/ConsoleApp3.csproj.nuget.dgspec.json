@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Проекты к загрузке на Гитхаб\\Net_4_sharp\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {}
+  },
+  "projects": {
+    "G:\\Проекты к загрузке на Гитхаб\\Net_4_sharp\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Проекты к загрузке на Гитхаб\\Net_4_sharp\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectName": "ConsoleApp3",
+        "projectPath": "G:\\Проекты к загрузке на Гитхаб\\Net_4_sharp\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "packagesPath": "C:\\Users\\ysm47\\.nuget\\packages\\",
+        "outputPath": "G:\\Проекты к загрузке на Гитхаб\\Net_4_sharp\\ConsoleApp3\\ConsoleApp3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ysm47\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.317\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
